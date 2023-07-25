@@ -1,0 +1,12 @@
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\bin\Debug\PokeSpriteOrganizer.exe.config
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\bin\Debug\PokeSpriteOrganizer.exe
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\bin\Debug\PokeSpriteOrganizer.pdb
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\bin\Debug\BetterFolderBrowser.dll
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.csproj.AssemblyReference.cache
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.Form1.resources
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.Properties.Resources.resources
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.csproj.GenerateResource.cache
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.csproj.CopyComplete
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.exe
+C:\Users\Sport\source\repos\PokeSpriteOrganizer\PokeSpriteOrganizer\obj\Debug\PokeSpriteOrganizer.pdb
