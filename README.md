@@ -20,6 +20,7 @@ If you have a text file with your remapped values, you can add them here. It wil
 
 ![PokeSpriteOrganizer - Remapper Select](https://github.com/CorruptStudio/PokeSpriteOrganizer/assets/73779393/93b3c62c-de72-4c05-af7c-beb88eb0a0b8)
 ![Remaps](https://github.com/CorruptStudio/PokeSpriteOrganizer/assets/73779393/16c58da4-c799-42f0-849a-5c5908ac2ef2)
+![Remaps txt](https://github.com/CorruptStudio/PokeSpriteOrganizer/assets/73779393/16e5c3df-8939-4951-89be-23e0096ce482)
 
 Now simple select the folders you wish to separate the images into.
 
